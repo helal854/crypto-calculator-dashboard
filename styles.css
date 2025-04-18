@@ -1,0 +1,4 @@
+body { padding-top: 60px; }
+.slider-label { font-weight: bold; margin-top: 10px; display: block; }
+.result-box { background: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 10px; }
+#reports canvas, #profitChart, #profitChart canvas, #miningResults { max-width: 100%; }
